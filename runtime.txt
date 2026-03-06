@@ -1,1 +1,4 @@
-python-3.11
+pdfplumber
+pandas
+openpyxl
+pypdf
