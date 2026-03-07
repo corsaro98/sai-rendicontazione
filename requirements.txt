@@ -1,3 +1,4 @@
 pandas
 openpyxl
 pypdf
+streamlit==1.42.0
